@@ -1,0 +1,15 @@
+
+# build
+*.yml
+*.yaml
+.next/*
+public/*
+reports/*
+coverage/*
+e2e/*
+src/tests/*
+src/augment.d.ts
+pnpm-lock.yaml
+package-lock.json
+yarn.lock
+eslint.config.mjs
